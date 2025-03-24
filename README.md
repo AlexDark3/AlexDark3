@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexDark3
-- 👀 I’m interested in learning to program
-- 🌱 I’m currently learning C, C++, C#, Python, HTML, CSS y JavaScript
+- 👀 I’m interested in learning to program.
+- 🌱 I’m currently learning C, C++, C#, Python, HTML, CSS, JavaScript and Kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
